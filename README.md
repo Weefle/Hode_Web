@@ -19,14 +19,14 @@ The game data files of the Windows release (Demo or CD) are required.
 ### Screenshots
 <table border="0" cellspacing="5">
 	<tbody><tr>
-		<td align="center"><img src="http://cyxdown.free.fr/hode/hode_1.thumb.jpg"/></td>
-		<td align="center"><img src="http://cyxdown.free.fr/hode/hode_8.thumb.jpg"/></td>
-		<td align="center"><img src="http://cyxdown.free.fr/hode/hode_B.thumb.jpg"/></td>
+		<td align="center"><img src="https://media.discordapp.net/attachments/498575486746624012/1083465074133446736/hode_1.thumb.jpg"/></td>
+		<td align="center"><img src="https://media.discordapp.net/attachments/498575486746624012/1083465074565464104/hode_8.thumb.jpg"/></td>
+		<td align="center"><img src="https://media.discordapp.net/attachments/498575486746624012/1083465074787766332/hode_B.thumb.jpg"/></td>
 	</tr>
 	<tr>
-		<td align="center"><img src="http://cyxdown.free.fr/hode/hode_C.thumb.jpg"/></td>
-		<td align="center"><img src="http://cyxdown.free.fr/hode/hode_F.thumb.jpg"/></td>
-		<td align="center"><img src="http://cyxdown.free.fr/hode/hode_D.thumb.jpg"/></td>
+		<td align="center"><img src="https://media.discordapp.net/attachments/498575486746624012/1083465074980696084/hode_C.thumb.jpg"/></td>
+		<td align="center"><img src="https://media.discordapp.net/attachments/498575486746624012/1083465075219775630/hode_D.thumb.jpg"/></td>
+		<td align="center"><img src="https://media.discordapp.net/attachments/498575486746624012/1083465075479826433/hode_F.thumb.jpg"/></td>
 	</tr>
 </tbody></table>
 
