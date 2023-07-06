@@ -3,7 +3,7 @@
  * Copyright (C) 2009-2011 Gregory Montoir (cyx@users.sourceforge.net)
  */
 
-#include <SDL2/SDL.h>
+#include <SDL.h>
 #include <cstdarg>
 #include <cmath>
 #include "scaler.h"
