@@ -2,7 +2,7 @@
 
 Web implementation of Heart of Darkness with WebAssembly using Emscripten
 
-- [Play](https://weefle.github.io/Hode_Web/public) - click here to play the game
+- [Play](https://weefle.github.io/Hode_Web/public/hode) - click here to play the game
 
 ## hode
 
